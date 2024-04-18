@@ -1,0 +1,15 @@
+/** {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #282C34;
+  font-family: "Arial", sans-serif;
+} VAi ser aplicado quando passar das 18:00hs e ate as 6:00hs da manhã */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #fff;
+  font-family: "Arial", sans-serif;
+}
